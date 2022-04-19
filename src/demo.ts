@@ -1,11 +1,18 @@
-import todo from ".";
+import CustomEvents from ".";
 
 document.addEventListener("DOMContentLoaded", () => {
   const root = document.getElementById("demo");
   root.style.position = "relative";
 
+  let emitted = "Click to emit an event";
+  const c = new CustomEvents();
+  c.listen((e:any)=>{
+    emitted = e;
+    console.log(e);
+  });
+
   const container = document.createElement("div");
-  container.innerHTML = `${todo()}`;
+  container.innerHTML = "" + emitted;
   container.style.position = "absolute";
   container.style.left = "0px";
   container.style.top = "0px";
@@ -19,6 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
     container.style.color = `rgb(${rand()}, ${rand()}, ${rand()})`;
     container.style.left = `${Math.random() * root.clientWidth}px`;
     container.style.top = `${Math.random() * root.clientHeight}px`;
+    c.emit("refresh");
+    container.innerHTML = "" + emitted;
   };
 
   const dot = document.createElement("div");
