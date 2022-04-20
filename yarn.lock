@@ -3877,10 +3877,10 @@ parse5@6.0.1:
   resolved "https://registry.yarnpkg.com/parse5/-/parse5-6.0.1.tgz#e1a1c085c569b3dc08321184f19a39cc27f7c30b"
   integrity sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw==
 
-parsegraph-arrayremove@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.0.tgz#3802bac7d4dd2afe5f6da7998378af5dba149905"
-  integrity sha512-EgqubvAO+y6bprXordslENCm9Icf/wP4FKOdwdw4H+5pDBvDBVNWTfZMfAsAYZlZ9ZsbENBwBmMJ1/Wu5bYJKA==
+parsegraph-arrayremove@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.1.tgz#1c4e4cc1fd7ed3da6f82f243464e5e5263d768d4"
+  integrity sha512-lRfnGnmqxY720csusTBFS+LJPuRBlzzvTx0ZHwDwulZCnnOOXjUVlUi8HlTuMhzz86GQY1YjRhpUQtBhaa4dBw==
 
 parsegraph-method@^1.4.22:
   version "1.4.22"
