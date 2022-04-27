@@ -3897,9 +3897,9 @@ parse5@6.0.1:
   integrity sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw==
 
 parsegraph-arrayremove@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.2.tgz#98aa08a0e1cb1d38fb15344560500bfd77e05485"
-  integrity sha512-hpnlQQ5vDvA9y8NAkQd7W/9P01C5v0LsyrUaF3ULZvZpuniI3UPofTWObXWddRle0dRLWX67GppAZBmGVZB5fA==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.3.tgz#55546aa263bf5810c57a6886c3d6a41eb66f5f53"
+  integrity sha512-SHVp3WECmLrIvbNTtNQRYt8ygiaqoC2jc4G4cYs+bogqYOeESBIJ4aSPtzwBa/T5nVB1W414RKlmabxVNEYNQA==
 
 parsegraph-method@^1.4.22:
   version "1.4.22"
