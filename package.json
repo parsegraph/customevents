@@ -1,6 +1,6 @@
 {
   "name": "parsegraph-customevents",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "description": "customevents",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
