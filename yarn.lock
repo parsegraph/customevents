@@ -3812,10 +3812,10 @@ parse5@6.0.1:
   resolved "https://registry.yarnpkg.com/parse5/-/parse5-6.0.1.tgz#e1a1c085c569b3dc08321184f19a39cc27f7c30b"
   integrity sha512-Ofn/CTFzRGTTxwpNEs9PP93gXShHcTq255nzRYSKe8AkVpZY7e1fpmTfOyoIvjP5HG7Z2ZM7VS9PPhQGW2pOpw==
 
-parsegraph-arrayremove@^2.0.9:
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.9.tgz#033b84da2ac205e718d71db5d73012da8a396646"
-  integrity sha512-RRYo4lXZuFj0EB6v7yjVcxgnhzGK7zqqu92aG4nGrxxFWBe+7XnhptfikqDXdMp9xstxgEEAqeX2rQFEiwgT2g==
+parsegraph-arrayremove@^2.0.10:
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.10.tgz#3f7a7fa4e54c529f00b347659df760806c5e5afe"
+  integrity sha512-IHkz8CaHmD2aonXVCsPOt5QnNwzL+gN0q8aZ5ulaiOPrs2k25Y1J2HE4wHHVtrLhjehyHBUu042Wc5Dfv9p4Ug==
 
 parsegraph-method@^1.4.22:
   version "1.4.22"
