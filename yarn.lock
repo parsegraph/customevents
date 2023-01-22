@@ -3911,15 +3911,15 @@ parse5@^7.0.0, parse5@^7.1.1:
   dependencies:
     entities "^4.4.0"
 
-parsegraph-arrayremove@^2.0.11:
-  version "2.0.11"
-  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.11.tgz#73362ab1965cc3350668f21baedd06611596b5aa"
-  integrity sha512-g+QNemDdsH4nuwdvwz9VHWmggdPPogM0mR8M46/SauGDjTQD0jnGmwvN1ET8MxjqKxzoZZ+Iuv7Y09q8Jo4iAA==
+parsegraph-arrayremove@^2.0.12:
+  version "2.0.12"
+  resolved "https://registry.yarnpkg.com/parsegraph-arrayremove/-/parsegraph-arrayremove-2.0.12.tgz#b1af3c12498b36a61be5c77dd4903ef476e4c2dd"
+  integrity sha512-YHhS0DXoLoGMKk0G7WRikQZvdbDOKv/EPUy1UJVwAIy9VvXxE1sJJEsLMllVp/dBr2cjXKM8dZZWowq3YBRZ8Q==
 
-parsegraph-method@^1.4.22:
-  version "1.4.22"
-  resolved "https://registry.yarnpkg.com/parsegraph-method/-/parsegraph-method-1.4.22.tgz#e73605b8f69a6040df3f1e689bde1f26c5b163d2"
-  integrity sha512-7l1YOim5QH+Gc/HQYqBGvRPtyf1EwvjHODcYZIyxrQQVbnjkkG1vrhqIpdm3TlfRl2k9YU0BbfDNY9BmyL/UdA==
+parsegraph-method@^1.4.24:
+  version "1.4.24"
+  resolved "https://registry.yarnpkg.com/parsegraph-method/-/parsegraph-method-1.4.24.tgz#95986b5b841f8d38a21233414ecbe12f05c2e918"
+  integrity sha512-SYcUPdmdrSV0GEkbAkTS41Q1i6ghTXxpLObyx6/urSCSu6t/RtOeiz6lkuAblbpQZj5Y8VEdyQ+hnItR25g6ow==
 
 path-exists@^3.0.0:
   version "3.0.0"
